@@ -2,6 +2,8 @@
 
 Repository of components used in [Raspberry Pi learning resources](http://www.raspberrypi.org/resources/)
 
+[![](components/breadboard.png)](components/) [![](components/camera.png)](components/) [![](components/led.png)](components/) [![](components/pir.png)](components/)
+
 ## Usage
 
 When writing resources for the Raspberry Pi website, in the repository's `hardware.yml` file, refer to the filename of the component, without file extension (they're all `.png`), like so:
