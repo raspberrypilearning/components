@@ -4,7 +4,7 @@ Repository of components used in [Raspberry Pi learning resources](http://www.ra
 
 ## Usage
 
-When writing resources for the Raspberry Pi website, in the repository's `hardware.yml` file, refer to the filename of the component, without file extension (they're all `.png`, like so:
+When writing resources for the Raspberry Pi website, in the repository's `hardware.yml` file, refer to the filename of the component, without file extension (they're all `.png`), like so:
 
 ```yml
 - name: 1 x Solderless breadboard
