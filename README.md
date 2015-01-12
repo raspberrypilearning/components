@@ -12,7 +12,7 @@ When writing resources for the Raspberry Pi website, in the repository's `hardwa
   url: http://shop.pimoroni.com/products/colourful-mini-breadboard
 ```
 
-This will use the text "1 x Solderless breadboard" linking to `shop.pimroni.com...` with the image `breadboard.png` (as found in [components/breadboard.png](components/breadboard.png)
+This will use the text "1 x Solderless breadboard" linking to `shop.pimroni.com...` with the image `breadboard.png` (as found in [components/breadboard.png](components/breadboard.png)).
 
 ## Image files
 
