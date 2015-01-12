@@ -2,7 +2,7 @@
 
 Repository of components used in [Raspberry Pi learning resources](http://www.raspberrypi.org/resources/)
 
-[![](components/breadboard.png)](components/) [![](components/camera.png)](components/) [![](components/led.png)](components/) [![](components/pir.png)](components/)
+[![](components/breadboard.png)](components/) [![](components/camera.png)](components/) [![](components/led.png)](components/)
 
 ## Usage
 
