@@ -18,7 +18,7 @@ This will use the text "1 x Solderless breadboard" linking to `shop.pimroni.com.
 
 ## Image files
 
-Image files live in the [components](components/) folder. They should be `200 x 167` in dimension, at 72dpi, on a transparent background.
+Image files live in the [components](components/) folder. They should be `600 x 500` in dimension at 72dpi, on a transparent background.
 
 ## Contributing
 
