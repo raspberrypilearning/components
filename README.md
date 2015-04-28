@@ -22,11 +22,11 @@ Image files live in the [components](components/) folder. They should be `600 x 
 
 ## Contributing
 
-Images are illustrated by our in-house designer, so we are not likely to accept submissions. Please use issues to report feedback if necessary (see the note below).
+Images are illustrated by our in-house designer, so we are not likely to accept submissions. Please use issues to report feedback if necessary.
 
 ## Issues
 
-Open issues at [/issues](https://github.com/raspberrypilearning/components/issues) but please note that images are intended to be general, not technically detailed. i.e. there will be one picture of a resistor, not specific to the type.
+Open issues at [/issues](https://github.com/raspberrypilearning/components/issues)
 
 ## Licence
 
