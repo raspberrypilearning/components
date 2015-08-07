@@ -1,11 +1,11 @@
-#
+# PIR Sensor
 
-![](.png)
+![PIR Sensor](pir.png)
 
-
+...
 
 ## Buy
 
-Buy a  from:
+Buy a PIR Sensor from:
 
-- []()
+- [The Pi Hut](http://thepihut.com/products/pir-motion-sensor-module)

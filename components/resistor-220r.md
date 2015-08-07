@@ -1,11 +1,11 @@
-#
+# 220R Resistor
 
-![](.png)
+![220R Resistor](resistor-220r.png)
 
-
+...
 
 ## Buy
 
-Buy a  from:
+Buy a 220R Resistor from:
 
-- []()
+- [Pimoroni](http://shop.pimoroni.com/products/resistor-grab-bag)
