@@ -1,11 +1,11 @@
-#
+# Male-to-Female Jumper Cable
 
-![](.png)
+![Male-to-Female Jumper Cable](jumper-male-to-female.png)
 
-
+...
 
 ## Buy
 
-Buy a  from:
+Buy Male-to-Female Jumper Cables from:
 
-- []()
+- [Pimoroni](http://shop.pimoroni.com/products/jumper-jerky)

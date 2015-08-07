@@ -2,7 +2,7 @@
 
 ![breadboard](breadboard.png)
 
-A breadboard provides a useful space for connecting several components to the Raspberry Pi.
+A breadboard provides a useful space for connecting electronic components to the Raspberry Pi.
 
 ## Buy
 

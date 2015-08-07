@@ -1,11 +1,11 @@
-#
+# Crocodile Clips
 
-![](.png)
+![Crocodile Clips](crocodile-clips.png)
 
-
+...
 
 ## Buy
 
-Buy a  from:
+Buy Crocodile Clips from:
 
-- []()
+- [Amazon](http://www.amazon.co.uk/CHIC-MALL-Double-ended-Crocodile-Alligator/dp/B00M2GD99E/)
