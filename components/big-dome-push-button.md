@@ -2,7 +2,7 @@
 
 ![Big Dome Push Button](big-dome-push-button.png)
 
-
+The Big Dome Push Button is a big and highly visible button.
 
 ## Buy
 
