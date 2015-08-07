@@ -6,6 +6,6 @@ The Astro Pi / Sense HAT is a sensor board packed with an 8x8 RGB LED matrix, a 
 
 ## Buy
 
-Buy an air quality sensor from:
+Buy an Astro Pi / Sense HAT from:
 
 - Coming soon
