@@ -1,6 +1,6 @@
 # USB Power Pack
 
-![USB Power Pack](.png)
+![USB Power Pack](usb-power-pack.png)
 
 ...
 

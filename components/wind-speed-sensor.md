@@ -1,6 +1,6 @@
 # Wind Speed Sensor
 
-![Wind Speed Sensor](.png)
+![Wind Speed Sensor](wind-speed-sensor.png)
 
 ...
 
