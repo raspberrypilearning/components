@@ -1,6 +1,8 @@
 # Contributing
 
-Images are illustrated by our in-house designer, so we are not likely to accept submissions. Please use issues to report feedback if necessary (see the note below).
+Images are illustrated by our in-house designer, so we are not likely to accept submissions. Please use issues to provide feedback.
+
+Issues or Pull Requests relating to component information pages are welcome. Component descriptions should be short and simple. Proposals for additional URLs for products is welcome, and will be accepted at our discretion.
 
 ## Issues
 
@@ -16,6 +18,6 @@ Images are covered by the following licence:
 
 [![Creative Commons Licence](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-***Components*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+***Components*** by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at https://github.com/raspberrypilearning/components
