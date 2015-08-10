@@ -2,7 +2,7 @@
 
 ![Quick Connect Wires](quick-connect-wires.png)
 
-...
+A set of Quick Connect Wires is a combination of two jumper wires with female headers on one end and metal crimped wires on the other - ideal for connecting a push button to a Raspberry Pi without a breadboard.
 
 ## Buy
 

@@ -2,7 +2,7 @@
 
 ![Servo](servo.png)
 
-...
+A Servo is a small motor with embedded control circuitry that can rotate up to 180 degrees.
 
 ## Buy
 

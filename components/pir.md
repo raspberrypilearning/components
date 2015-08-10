@@ -2,7 +2,7 @@
 
 ![PIR Sensor](pir.png)
 
-...
+A Passive Infra-red (PIR) Sensor is used to detect motion.
 
 ## Buy
 

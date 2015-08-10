@@ -2,7 +2,7 @@
 
 ![Speaker](speaker.png)
 
-...
+Standard speakers with a 3.5mm jack can be used to play audio through the Raspberry Pi.
 
 ## Buy
 

@@ -2,7 +2,7 @@
 
 ![Transistor](transistor.png)
 
-...
+A transistor is an electronic component that can be used as an amplifier, or as a switch.
 
 ## Buy
 

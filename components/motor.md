@@ -2,10 +2,10 @@
 
 ![Geared Motor](motor.png)
 
-...
+A Geared Motor can be used to drive a robot or other motored device, powered and controlled by a Raspberry Pi.
 
 ## Buy
 
-Buy a Motor from:
+Buy a Geared Motor from:
 
-- [Amazon](http://www.amazon.co.uk/0-06A-80RPM-Electric-Reducing-Geared/dp/B00S4U6M5A/)
+- [Amazon UK](http://www.amazon.co.uk/0-06A-5Kg-cm-Electric-Reducing-Geared/dp/B00977HK2S)

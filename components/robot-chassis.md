@@ -2,7 +2,7 @@
 
 ![Robot Chassis](robot-chassis.png)
 
-...
+A Robot Chassis is a base for a Raspberry Pi robot with motors built in, and two sets of tank tracks over the wheels.
 
 ## Buy
 

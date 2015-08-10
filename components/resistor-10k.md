@@ -2,10 +2,10 @@
 
 ![10k Resistor](resistor-10k.png)
 
-...
+A Resistor limits the electrical current that flows through a circuit.
 
 ## Buy
 
-Buy a 10k Resistor from:
+Buy 10k Resistors from:
 
 - [Pimoroni](http://shop.pimoroni.com/products/resistor-grab-bag)
