@@ -8,4 +8,4 @@ A Tactile Push Button is used in an electronic circuit to allow a person to inte
 
 Buy a Tactile Push Button from:
 
-- [Pimoroni](http://shop.pimoroni.com/products/colourful-switch-caps)
+- [Pimoroni](http://shop.pimoroni.com/products/tactile-switches)
