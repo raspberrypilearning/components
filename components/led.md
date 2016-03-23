@@ -2,7 +2,7 @@
 
 ![LED](led.png)
 
-A light-emitting diode (LED) is a diode that glows when electricity passes through it.
+A light-emitting diode (LED) is a diode that glows when electrical current passes through it.
 
 ## Buy
 
