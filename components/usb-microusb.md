@@ -1,6 +1,6 @@
 # USB-A to micro USB-B cable
 
-![USB-A to micro USB-B cable](usb-microsub.png)
+![USB-A to micro USB-B cable](usb-microusb.png)
 
 This cable can connect USB-A ports to micro USB-B ports
 
