@@ -1,6 +1,6 @@
 # HDMI to HDMI Cable
 
-![HDMI Cable](hdmi-lead.png)
+![HDMI Cable](hdmi-cable.png)
 
 Connect Raspberry Pi to a Monitor or TV with a HDMI to HDMI cable. 
 

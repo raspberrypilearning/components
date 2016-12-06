@@ -1,6 +1,6 @@
 # Components
 
-Repository of components used in [Raspberry Pi learning resources](https://www.raspberrypi.org/resources/)
+Repository of components used in [Raspberry Pi learning resources](https://www.raspberrypi.org/learning/)
 
 [![](components/camera.png)](components/)
 
