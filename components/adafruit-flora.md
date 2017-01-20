@@ -2,7 +2,7 @@
 
 ![Adafruit FLORA](adafruit-flora.png)
 
-The Adafruit FLORA is a wearable microcontroller which you can sew components to and control with code
+The Adafruit FLORA is a wearable microcontroller; you can sew components to it and control them with code.
 
 ## Buy
 
