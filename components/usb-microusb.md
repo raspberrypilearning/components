@@ -2,7 +2,7 @@
 
 ![USB-A to micro USB-B cable](usb-microusb.png)
 
-This cable can connect USB-A ports to micro USB-B ports
+This cable can connect USB-A ports to micro USB-B ports.
 
 ## Buy
 
