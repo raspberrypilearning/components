@@ -2,7 +2,7 @@
 
 ![Adafruit NeoPixel](adafruit-neopixel.png)
 
-The Adafruit NeoPixel is a RGB LED which can display a wide range of colours and be sewn into wearable projects
+The Adafruit NeoPixel is a RGB LED which can display a wide range of colours and be sewn into wearable projects.
 
 ## Buy
 
