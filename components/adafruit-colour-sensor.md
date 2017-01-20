@@ -2,7 +2,7 @@
 
 ![Adafruit Colour Sensor](adafruit-colour-sensor.png)
 
-The Adafruit colour sensor detects the colour of light 
+This detects the colour of light. 
 
 ## Buy
 
