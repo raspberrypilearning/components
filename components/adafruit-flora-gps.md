@@ -2,7 +2,7 @@
 
 ![Adafruit FLORA GPS module](adafruit-flora-gps.png)
 
-The Adafruit FLORA GPS module detects your current position (latitude and longitude)
+The Adafruit FLORA GPS module detects your current position (latitude and longitude).
 
 ## Buy
 
