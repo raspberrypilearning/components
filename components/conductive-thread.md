@@ -2,7 +2,7 @@
 
 ![Conductive Thread](conductive-thread.png)
 
-Conductive thread is sewing thread containing a metallic element which will conduct electricity
+Conductive thread is sewing thread containing a metallic element which will conduct electricity.
 
 ## Buy
 
