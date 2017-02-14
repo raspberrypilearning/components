@@ -2,7 +2,7 @@
 
 ![Blinkt](blinkt.png)
 
-The Blinkt is a small add on board for the Raspberry Pi that provides 8 individually controllable RGB LEDs
+The Blinkt is a small add-on board for the Raspberry Pi that provides eight individually controllable RGB LEDs
 
 ## Buy
 
