@@ -4,9 +4,9 @@
 
 The Raspberry Pi Zero is half the size of a Model A+, with twice the utility. A tiny Raspberry Pi that’s affordable enough for any project!
 
-- 1Ghz, Single-core CPU
+- 1Ghz, single-core CPU
 - 512MB RAM
-- Mini HDMI and USB On-The-Go ports
+- Mini HDMI and USB on-the-go ports
 - Micro USB power
 - HAT-compatible 40-pin header
 - Composite video and reset headers
