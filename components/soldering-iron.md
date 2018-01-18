@@ -1,6 +1,6 @@
 # Soldering Iron
 
-![Soldering Iron](soldering-iron.jpg)
+![Soldering Iron](soldering-iron.png)
 
 A soldering iron allows you to join electronic components together by melting solder into the joints.
 
